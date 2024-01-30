@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
 {   // Создаем рандомную строку
-    string rndText = "МадаМ";
+    string rndText = "шалаш";
     char[] reverseText = rndText.ToCharArray();
     // Используем функцию для разворота строки
     Array.Reverse(reverseText);
